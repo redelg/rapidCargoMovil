@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">RapidCargoMov</string>
+    <string name="app_name">RapidCargoT3</string>
+    <string name="title_activity_tab_principal">TabPrincipalActivity</string>
+    <string name="tab_text_1">SEGUIMIENTO</string>
+    <string name="tab_text_2">INTRANET</string>
+
+    <string name="tab_text_3">TRASLADO</string>
+    <string name="tab_text_4">ENTREGA</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="titulo_menu">RAPIDCARGO ENCOMIENDAS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab_entregas">TabEntregasActivity</string>
 </resources>

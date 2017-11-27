@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RapidCargoMov.iml" filepath="$PROJECT_DIR$/RapidCargoMov.iml" />
+      <module fileurl="file://C:\Users\Renzo\Desktop\rapidCargoMovil\RapidCargoMov.iml" filepath="C:\Users\Renzo\Desktop\rapidCargoMovil\RapidCargoMov.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Renzo\Desktop\rapidCargoMovil\app\app.iml" filepath="C:\Users\Renzo\Desktop\rapidCargoMovil\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapidCargoMovil.iml" filepath="$PROJECT_DIR$/rapidCargoMovil.iml" />
     </modules>
   </component>
 </project>

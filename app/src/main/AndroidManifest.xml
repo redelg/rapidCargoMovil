@@ -19,6 +19,10 @@
         <activity
             android:name=".TabPrincipalActivity"
             android:label="@string/title_activity_tab_principal"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TabEntregasActivity"
+            android:label="@string/title_activity_tab_entregas"
             android:theme="@style/AppTheme"></activity>
     </application>
 

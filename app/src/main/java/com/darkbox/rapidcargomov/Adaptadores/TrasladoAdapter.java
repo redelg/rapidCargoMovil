@@ -44,13 +44,13 @@ public class TrasladoAdapter extends RecyclerView.Adapter<TrasladoAdapter.ViewHo
     public void onBindViewHolder(final ViewHolder holder, final int position) {
 
         // Set strings to the views
-        /*final TextView tvdescripcionOrden= (TextView) holder.view.findViewById(R.id.tv_descripcionOrden);
+        final TextView tvdescripcionOrden= (TextView) holder.view.findViewById(R.id.tv_descripcionOrden);
         final TextView tvfechaEntrega = (TextView) holder.view.findViewById(R.id.tv_fechaEntrega);
         final TextView tvRuta = (TextView) holder.view.findViewById(R.id.tv_Ruta);
 
         tvdescripcionOrden.setText(encomiendas.get(position).getDescripcionEncomienda());
         tvfechaEntrega.setText(encomiendas.get(position).getFechaLlegada());
-        tvRuta.setText(encomiendas.get(position).getRuta().getNombreRuta());*/
+        tvRuta.setText(encomiendas.get(position).getRuta().getNombreRuta());
 
     }
 

@@ -79,11 +79,11 @@ public class TabEntregasActivity extends AppCompatActivity {
         public Fragment getItem(int position) {
             switch (position){
                 case 0:
-                    /*TrasladoFragment trasladoFragment = new TrasladoFragment();
-                    return trasladoFragment;*/
+                    TrasladoFragment trasladoFragment = new TrasladoFragment();
+                    return trasladoFragment;
                 case 1:
-                    /*EntregaFragment entregaFragment = new EntregaFragment();
-                    return entregaFragment;*/
+                    EntregaFragment entregaFragment = new EntregaFragment();
+                    return entregaFragment;
             }
             return null;
             //return PlaceholderFragment.newInstance(position + 1);

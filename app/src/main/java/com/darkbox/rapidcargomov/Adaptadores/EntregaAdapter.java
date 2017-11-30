@@ -45,13 +45,13 @@ public class EntregaAdapter extends RecyclerView.Adapter<EntregaAdapter.ViewHold
     public void onBindViewHolder(final ViewHolder holder, final int position) {
 
         // Set strings to the views
-        /*final TextView tvdescripcionOrden= (TextView) holder.view.findViewById(R.id.tv_descripcionOrden);
+        final TextView tvdescripcionOrden= (TextView) holder.view.findViewById(R.id.tv_descripcionOrden);
         final TextView tvRemitente = (TextView) holder.view.findViewById(R.id.tv_Remitente);
         final TextView tvSeguimiento = (TextView) holder.view.findViewById(R.id.tv_codSeguimiento);
 
         tvdescripcionOrden.setText(encomiendas.get(position).getDescripcionEncomienda());
         tvRemitente.setText(encomiendas.get(position).getNombreDestinatario());
-        tvSeguimiento.setText(encomiendas.get(position).getCodigoEncomienda());*/
+        tvSeguimiento.setText(encomiendas.get(position).getCodigoEncomienda());
 
     }
 

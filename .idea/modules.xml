@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://C:\Users\Renzo\Desktop\rapidCargoMovil\RapidCargoMov.iml" filepath="C:\Users\Renzo\Desktop\rapidCargoMovil\RapidCargoMov.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Renzo\Desktop\rapidCargoMovil\app\app.iml" filepath="C:\Users\Renzo\Desktop\rapidCargoMovil\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/rapidCargoMovil.iml" filepath="$PROJECT_DIR$/rapidCargoMovil.iml" />
+      <module fileurl="file://C:\Users\Renzo\Desktop\rapidCargoMovil\rapidCargoMovil.iml" filepath="C:\Users\Renzo\Desktop\rapidCargoMovil\rapidCargoMovil.iml" />
     </modules>
   </component>
 </project>
